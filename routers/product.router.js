@@ -6,7 +6,7 @@ const products = require('../controllers/product.controller');
 
 
 
-router.post('/products' ,products )
+//router.post('/products' ,products )
 
 // task: #2
 router.get('/products',taskTwo);
